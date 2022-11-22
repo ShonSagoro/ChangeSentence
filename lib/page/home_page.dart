@@ -67,13 +67,12 @@ class _MyHomeState extends State<MyHome> {
                     onPressed: _changeId, 
                     backgroundColor: Color.fromARGB(255, 255, 7, 114),
                     child: Icon(Icons.add_circle)),
-                ],
-              ),
-
+                ]
+              )
             )
-          ],
-        ),
-      ),
+          ]
+        )
+      )
     );
   }
 }
